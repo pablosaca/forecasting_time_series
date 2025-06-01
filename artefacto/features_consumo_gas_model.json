@@ -1,0 +1,20 @@
+{
+    "features": [
+        "consumo_gas_lag_1",
+        "consumo_gas_lag_15",
+        "consumo_gas_rolling_window_8",
+        "consumo_gas_rolling_window_8_std",
+        "consumo_gas_rolling_window_15_std",
+        "temperatura_rolling_window_3",
+        "temperatura_lag_14",
+        "temperatura_lag_28",
+        "velocidad_viento_rolling_window_3",
+        "velocidad_viento_rolling_window_8",
+        "velocidad_viento_rolling_window_15",
+        "es_festivo",
+        "dia_semana",
+        "festivo_previo",
+        "festivo_siguiente",
+        "semana_anyo"
+    ]
+}
