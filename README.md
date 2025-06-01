@@ -16,7 +16,6 @@ A lo largo de este proyecto se lleven a cabo una serie de etapas que se exponen 
 
 Se proporciona una serie de módulos con sus respectivas clases, métodos y funciones:
 
-
 ```
 
 │
@@ -64,7 +63,7 @@ conda create -n forecasting python=3.10
 Para activar el entorno virtual usa la siguiente instrucción
 
 ```
-conda activate venv
+conda activate forecasting
 ```
 
 Así, instala las dependencias del fichero `requirements.txt` usando `pip`
