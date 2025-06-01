@@ -2,7 +2,7 @@ import logging
 
 
 def get_logger():
-    logger = logging.getLogger("Endesa - Consumo Gas")
+    logger = logging.getLogger("UNED - Consumo Gas")
     logger.setLevel(logging.DEBUG)
 
     if not logger.handlers:  # Evita añadir múltiples handlers si se importa varias veces
