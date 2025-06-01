@@ -16,6 +16,9 @@ A lo largo de este proyecto se lleven a cabo una serie de etapas que se exponen 
 
 Se proporciona una serie de módulos con sus respectivas clases, métodos y funciones:
 
+
+```
+
 │
 ├── README.md                                       # Lee el fichero                             
 │                              
@@ -47,6 +50,8 @@ Se proporciona una serie de módulos con sus respectivas clases, métodos y func
 ├── artefacto                               # se guarda el modelo (pickle) y las variables explicativas (json)
 │ 
 ├── requirements.txt                        # requirements list
+
+```
 
 ## Instalación
 
